@@ -1,0 +1,11 @@
+programa {
+  funcao inicio() 
+  {
+    inteiro idade = 21
+
+    se(idade >= 18){
+      escreva("Maior de idade")
+      //  Quando executado o programa, descobre que você é maior de idade
+    }
+  }
+}
