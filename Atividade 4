@@ -1,0 +1,9 @@
+programa {
+  funcao inicio() 
+  {
+    cadeia nome
+    leia (nome)
+    escreva (nome)
+    // Quando executado foi falado a mesma frase colocada no programa
+  }
+}
