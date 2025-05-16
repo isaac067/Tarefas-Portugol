@@ -1,0 +1,12 @@
+programa {
+  funcao inicio() 
+  {
+    inteiro Cont = 5
+
+    enquanto(Cont > 0){
+      escreva(Cont, "\n")
+      Cont = Cont - 1
+      // Quando executado contou do 1 ao 5
+    }
+  }
+}
